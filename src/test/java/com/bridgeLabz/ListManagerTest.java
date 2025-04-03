@@ -10,7 +10,7 @@ import java.util.List;
 public class ListManagerTest {
 
     private ListManager listManager;
-    private List<Integer> list;
+    private List<Integer> list; 
 @BeforeEach
     void setup(){
         listManager=new ListManager();
