@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Test;
 
 public class CalulatorTest {
 
-    private Calculator obj;
+    private Calculator obj; 
 
     @BeforeEach
     public void setup(){
