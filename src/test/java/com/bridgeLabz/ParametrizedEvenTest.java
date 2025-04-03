@@ -6,7 +6,7 @@ import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.ValueSource;
 
 public class ParametrizedEvenTest {
-
+ 
 
     private NumberUtils obj=new NumberUtils();
 
