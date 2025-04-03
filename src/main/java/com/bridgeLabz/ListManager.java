@@ -6,7 +6,7 @@ public class ListManager {
         list.add(element);
     }
 
-    public boolean removeElement(List<Integer> list,int element) {
+    public boolean removeElement(List<Integer> list,int element) { 
         return list.remove(Integer.valueOf(element));
     }
 
