@@ -4,7 +4,7 @@ public class StringUtils {
 
     public static String reverse(String str) {
         StringBuilder sb=new StringBuilder(str);
-        return sb.reverse().toString();
+        return sb.reverse().toString();  
     }
 
     public static boolean isPalndrome(String str) {
